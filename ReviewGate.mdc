@@ -1,6 +1,6 @@
 ---
-description:
-globs:
+description: 
+globs: 
 alwaysApply: true
 ---
 # AI 代理协议：自包含的强制性交互式最终审查循环，附带脚本自动创建 (JavaScript / Node.js 版本 - CommonJS)
